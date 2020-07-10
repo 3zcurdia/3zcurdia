@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Simulated Annealing algorithms and distritubted systems.
+
 <!--
 **3zcurdia/3zcurdia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
