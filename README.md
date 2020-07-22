@@ -5,7 +5,7 @@ I while ago I refused to call myself a 'passionate programmer', but thinking it 
 - 🔭 I’m currently working on refactors and cleanups over legacy applications.
 - 🌱 I’m always apply software to real life problems.
 - 💬 Ask me about ruby, swift and elixir.
-- 👯 I’m looking to collaborate on developer comunities.
+- 💻 I’m looking to collaborate on developer comunities.
 - ⚡ Fun fact: I like to make sour doug bread
 
 <!--
