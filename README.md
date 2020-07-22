@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently learning distritubted systems with elixir.
+I while ago I refused to call myself a 'passionate programmer', but thinking it twice I think I am cause:
+
+- 🔭 I’m currently working on refactors and cleanups over legacy applications.
+- 🌱 I’m always apply software to real life problems.
+- 💬 Ask me about ruby, swift and elixir.
+- 👯 I’m looking to collaborate on developer comunities.
+- ⚡ Fun fact: I like to make sour doug bread
 
 <!--
 **3zcurdia/3zcurdia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
