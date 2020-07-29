@@ -1,15 +1,12 @@
 [![3zcurdia's github stats](https://github-readme-stats.vercel.app/api?username=3zcurdia&show_icons=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3zcurdia&layout=compact)
-
-### Hello there 👋
-
-My name is Luis, and:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3zcurdia&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on refactors and cleanups over legacy applications.
 - 🌱 I’m always apply software to real life problems.
 - 💬 Ask me about ruby, swift or elixir.
 - 💻 I’m looking to collaborate with developer comunities.
 - ⚡ Fun fact: I like to make sourdoug bread 🥖
+
 
 <!--
 **3zcurdia/3zcurdia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
