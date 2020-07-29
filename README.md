@@ -7,6 +7,8 @@
 - 💻 I’m looking to collaborate with developer comunities.
 - ⚡ Fun fact: I like to make sourdoug bread 🥖
 
+![SamLJackson](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.awesomelyluvvie.com%2Fwp-content%2Fuploads%2F2017%2F09%2Fsamuel-l-jackson-staring-gif.gif&f=1&nofb=1)
+
 
 <!--
 **3zcurdia/3zcurdia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
