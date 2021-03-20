@@ -5,6 +5,7 @@
 - 🌱 I’m always apply software to real life problems.
 - 💬 Ask me about ruby, elixir or swift.
 - 💻 I’m looking to collaborate with developer comunities.
+- 🧑‍🏫 Sometimes I teach at the [iOSLab](https://github.com/ioslabunam)
 - ⚡ Fun fact: I like to make sourdoug bread 🥖
 
 <!--
