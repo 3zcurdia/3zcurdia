@@ -1,11 +1,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3zcurdia&hide=javascript,html,go&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working improving legacy applications.
-- 🌱 I’m always apply software to real life problems.
+- 🔭 I alwas find myself working to improve complex applications.
+- 🌱 I’m always trying to apply software to real life problems.
 - 💬 Ask me about ruby, elixir or swift.
-- 💻 I’m looking to collaborate with developer comunities.
-- 🧑‍🏫 Sometimes I teach at the [iOSLab](https://github.com/ioslabunam)
+- 💻 I’m looking to build my own products.
+- 🧑‍🏫 I'm a mentor in the [iOSLab](https://github.com/ioslabunam)
 - ⚡ Fun fact: I like to make sourdoug bread 🥖 and cheese 🧀
 
 <!--
