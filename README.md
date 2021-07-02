@@ -1,9 +1,9 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3zcurdia&hide=javascript,html,go&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3zcurdia&hide=javascript,html,css,scss,go,objective-c,coffeescript,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I alwas find myself working to improve complex applications.
-- 🌱 I’m always trying to apply software to real life problems.
-- 💬 Ask me about ruby, elixir or swift.
+- 🔭 I'm always working to improve complex applications.
+- 🌱 I always try to apply software solutions to real life problems.
+- 💬 Ask me about programming languages and best practices.
 - 💻 I’m looking to build my own products.
 - 🧑‍🏫 I'm a mentor in the [iOSLab](https://github.com/ioslabunam)
 - ⚡ Fun fact: I like to make sourdoug bread 🥖 and cheese 🧀
