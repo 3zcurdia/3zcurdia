@@ -4,8 +4,8 @@
 - 🔭 I'm always working to improve complex applications.
 - 🌱 I always try to apply software solutions to real life problems.
 - 💬 Ask me about programming languages and best practices.
-- 💻 I’m looking to build my own products.
-- 🧑‍🏫 I'm a mentor in the [iOSLab](https://github.com/ioslabunam)
+- 💻 I’m building tools to improve organizations process.
+- 🧑‍🏫 I'm a [iOSLab](https://github.com/ioslabunam) mentor
 - ⚡ Fun fact: I like to make sourdoug bread 🥖 and cheese 🧀
 
 <!--
