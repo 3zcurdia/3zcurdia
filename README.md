@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3zcurdia&hide=javascript,html,css,scss,sass,go,coffeescript,procfile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3zcurdia&hide=javascript,html,css,scss,sass,coffeescript,procfile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💡 I love to build software.
 - 🔭 I'm always looking how to improve things.
