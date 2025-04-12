@@ -4,7 +4,7 @@
 - 🔭 I'm always looking for inspiration.
 - 🌱 I always try to code the elegant solution (when its possible).
 - 💬 Ask me about anything, and I'll be triggered to talk endlessly
-- 🧑‍🏫 I'm a former [iOSLab](https://github.com/ioslabunam) mentor
+- 🧑‍🏫 I'm a former [iOSLab](https://github.com/ioslabunam) mentor, but I still mentor people
 - 🐢 My first programming languaje was logo 
 - 👾 I am a terrible gamer, but I love it when I have some time to play
 - ⚡ I am kinda maker, I love to bake bread 🥖 sous vide steaks 🥩 , and a little of woodworking 🪑 
